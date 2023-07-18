@@ -14,7 +14,7 @@
    
  </div>
  </br>
- <div style="display:flex; align-items:center; justify-content:center;">
+ <div >
  <img src="https://github-readme-stats.vercel.app/api?username=gabrielolivra&show_icons=true&theme=dark" style="height:50%; width:50%;">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielolivra&layout=compact&theme=dark" style="height:50%; width:45%;">
  </div>
